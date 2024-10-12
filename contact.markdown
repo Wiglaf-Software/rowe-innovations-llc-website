@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact/index.html
 ---
 
 Rowe Innovations, LLC is an active domestic limited liability company at [NY Department of State](https://apps.dos.ny.gov/publicInquiry/)

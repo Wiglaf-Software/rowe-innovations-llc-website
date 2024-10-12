@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /Privacy/
+permalink: /privacy/index.html
 ---
 
 todo
