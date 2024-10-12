@@ -1,0 +1,22 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+Rowe Innovations, LLC is an active domestic limited liability company at [NY Department of State](https://apps.dos.ny.gov/publicInquiry/)
+
+Its officers can be reached in the following ways
+
+# Postal Mail
+
+Rowe Innovations, LLC
+
+14 Main Street, Unit 171
+
+Brockport, NEW YORK UNITED STATES 14420
+
+
+# Email
+
+[james@roweinnovations.com](james@roweinnovations.com)
