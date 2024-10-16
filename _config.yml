@@ -2,14 +2,25 @@
 title: Rowe Innovations, LLC
 email: james@roweinnovations.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Home page of Rowe Innovations, LLC.
+  (c) 2024 Rowe Innovations, LLC. 
+  All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.roweinnovations.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  jsr6720
 linkedin_username: jsr6720
 
-permalink: /:title/index.html # :output_ext meh(?)
+# index.html to get it to work with cloudfront static pages
+permalink: /:title/index.html 
+
+# using collections to separate the lines of business
+collections:
+  software: # published apps
+    output: true
+    permalink: /:collection/:name/index.html
+  books: # published books
+    output: true
+    permalink: /:collection/:name/index.html
 
 # Build settings
 theme: minima
