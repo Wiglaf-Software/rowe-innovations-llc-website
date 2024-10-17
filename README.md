@@ -1,3 +1,3 @@
 # rowe-innovations-llc-website
 
-The home page of Rowe Innovations, LLC built by Wiglaf Software(TM)
+Home page of Rowe Innovations, LLC managed by Wiglaf Software(TM)
