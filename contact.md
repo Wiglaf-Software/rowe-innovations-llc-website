@@ -19,4 +19,10 @@ Brockport, NEW YORK UNITED STATES 14420
 
 # Email
 
-[james@roweinnovations.com](james@roweinnovations.com)
+<hello@roweinnovations.com>
+
+<support@roweinnovations.com>
+
+<privacy@roweinnovations.com>
+
+<legal@roweinnovations.com>
